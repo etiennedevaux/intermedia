@@ -1,1 +1,1 @@
-python web_project\manage.py runserver
+cd ..python web_project\manage.py runserver
